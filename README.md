@@ -1,8 +1,9 @@
 <div align="center">
 
-# ¡Hola! Soy Brian Moro <sub>(Willy)</sub> 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,100:C89B3C&height=200&section=header&text=Brian%20Moro%20(Willy)&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=75&descSize=18" width="100%" alt="Header" />
 
-**Full Stack Developer** — Angular · Node.js · MySQL
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=C89B3C&center=true&vCenter=true&width=600&lines=Angular+%C2%B7+Node.js+%C2%B7+MySQL;Construyendo+Wilson+Pizzas+de+punta+a+punta;Heimerdinger+main+en+mis+ratos+libres+%F0%9F%94%A7)](https://git.io/typing-svg)
+
 📍 Rosario, Santa Fe, Argentina · 💼 Disponible para trabajos freelance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-williams-moro-570532193/)
@@ -75,10 +76,32 @@ Live demo: https://wilson-pizzas.vercel.app — source is private (it runs a rea
 
 ---
 
+## 🎮 Fuera del código
+
+Cuando no estoy programando, probablemente esté jugando **League of Legends** — main **Heimerdinger** 🔧🤖 *(sí, me gusta construir cosas hasta en el Rift).*
+
+<div align="center">
+
+![League of Legends](https://img.shields.io/badge/League%20of%20Legends-Heimerdinger%20main-C89B3C?style=for-the-badge)
+
+</div>
+
+---
+
 ## 📊 GitHub stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Willyssj3&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
+</div>
+
+## 📈 Actividad
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Willyssj3/Willyssj3/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Willyssj3/Willyssj3/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente comiendo mis contribuciones" src="https://raw.githubusercontent.com/Willyssj3/Willyssj3/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 </div>
 
 ---
@@ -86,5 +109,7 @@ Live demo: https://wilson-pizzas.vercel.app — source is private (it runs a rea
 <div align="center">
 
 📫 **¿Hablamos?** [LinkedIn](https://www.linkedin.com/in/brian-williams-moro-570532193/) · brianmorossj3@gmail.com
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C89B3C,100:C0392B&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
