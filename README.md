@@ -24,8 +24,10 @@ Sistema de pedidos online completo para una pizzería real, construido y despleg
 <div align="center">
 <img src="assets/wilson-pizzas-home.png" width="48%" alt="Catálogo — Wilson Pizzas" />
 <img src="assets/wilson-pizzas-cart.png" width="48%" alt="Carrito — Wilson Pizzas" />
-<img src="assets/wilson-pizzas-checkout.png" width="48%" alt="Checkout — Wilson Pizzas" />
-<img src="assets/wilson-pizzas-mobile.png" width="48%" alt="Vista mobile — Wilson Pizzas" />
+
+<img src="assets/wilson-pizzas-checkout.png" width="70%" alt="Checkout — Wilson Pizzas" />
+
+<img src="assets/wilson-pizzas-mobile.png" width="24%" alt="Vista mobile — Wilson Pizzas" />
 
 **[🔗 Ver demo en vivo](https://wilson-pizzas.vercel.app)**
 
@@ -68,7 +70,7 @@ Live demo: https://wilson-pizzas.vercel.app — source is private (it runs a rea
 
 ## 🎸 STRUM & OCTAVE
 
-Fork independiente activo de dos proyectos de [opria123](https://github.com/opria123): una IA que convierte canciones en charts jugables para Clone Hero/YARG, y el editor visual de escritorio que los edita. Sigo iterando sobre la base original con crédito completo a opria123 — sin depender de su ritmo de releases.
+Fork independiente activo de dos proyectos de [opria123](https://github.com/opria123): una IA que convierte canciones en charts jugables para Clone Hero/GHWTDE, y el editor visual de escritorio que los edita. Sigo iterando sobre la base original con crédito completo a opria123 — sin depender de su ritmo de releases.
 
 <table align="center">
 <tr>
