@@ -111,7 +111,10 @@ Editor de escritorio para crear y ajustar charts a mano, integrado con STRUM. El
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -129,7 +132,7 @@ Editor de escritorio para crear y ajustar charts a mano, integrado con STRUM. El
 
 ## 🎮 Fuera del código
 
-Cuando no estoy programando, probablemente esté jugando **League of Legends** — main **Heimerdinger** 🔧🤖 *(sí, me gusta construir cosas hasta en el Rift)* — o corriendo.
+Cuando no estoy programando, lo más probable es que esté corriendo o jugando **League of Legends** — main **Heimerdinger** 🔧🤖 *(sí, hasta en el Rift me gusta construir cosas)*.
 
 <div align="center">
 
@@ -142,16 +145,20 @@ Cuando no estoy programando, probablemente esté jugando **League of Legends** �
 
 ## 📊 GitHub stats
 
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Willyssj3&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Willyssj3&theme=dark&hide_border=true" alt="Racha de contribuciones" height="165" /></td>
-</tr>
-</table>
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willyssj3&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Willyssj3&theme=dark&hide_border=true" alt="Racha de contribuciones" height="165" />
 </div>
+
+<!--
+El instance público de github-readme-stats.vercel.app está caído desde enero 2026
+(503 DEPLOYMENT_PAUSED, ver https://github.com/anuraghazra/github-readme-stats/issues/4737).
+Las tarjetas de "Estadísticas de GitHub" y "Lenguajes más usados" se sacaron temporalmente
+para no mostrar imagen rota. Se pueden restaurar apenas se self-hostee una instancia propia
+en Vercel (botón de deploy en el repo de anuraghazra/github-readme-stats), reemplazando el
+dominio en estas URLs:
+<img src="https://github-readme-stats.vercel.app/api?username=Willyssj3&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willyssj3&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="165" />
+-->
 
 ## 📈 Actividad
 
