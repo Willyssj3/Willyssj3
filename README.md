@@ -8,12 +8,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-williams-moro-570532193/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brianmorossj3@gmail.com)
+[![CV](https://img.shields.io/badge/📄_CV-Descargar-4CAF50?style=flat)](assets/Brian_Williams_Moro_CV.pdf)
 
 </div>
 
 Estudiante de la **Tecnicatura Superior en Desarrollo de Software** en el [Terciario Urquiza](https://terciariourquiza.edu.ar/), Rosario. Aprendo construyendo proyectos reales de punta a punta: desde la base de datos hasta la interfaz, pasando por el deploy en producción.
 
 *Full Stack Developer student (Angular · Node.js · MySQL), based in Rosario, Argentina. I learn by shipping real, production-deployed projects — not just tutorials.*
+
+Además, hace más de 3 años lidero equipos y capacito personal en Konecta (sector Telecom) — combino ese perfil de liderazgo y resolución de problemas con el técnico.
 
 ---
 
@@ -127,6 +130,8 @@ Editor de escritorio para crear y ajustar charts a mano, integrado con STRUM. El
 ## 🎓 Formación
 
 - **Tecnicatura Superior en Desarrollo de Software** — [Terciario Urquiza](https://terciariourquiza.edu.ar/), Rosario *(último año, segundo cuatrimestre — graduación estimada fines de 2026 / principios de 2027)*
+
+**Cursos y certificaciones:** JavaScript - De Cero a Experto (Udemy) · Metodologías Ágiles (Konecta) · Gestión de Proyecto PMI (Konecta) · Liderazgo (Santander Open Academy)
 
 ---
 
