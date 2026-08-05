@@ -157,11 +157,7 @@ Cuando no estoy programando, lo más probable es que esté corriendo o jugando *
 </tr>
 </table>
 
-<div align="center">
-<img src="assets/top-langs.svg" alt="Lenguajes más usados" height="165" />
-</div>
-
-<sub>Estas tres tarjetas se generan solas todos los días vía GitHub Actions (<a href=".github/workflows/stats.yml">stats.yml</a>) y quedan commiteadas acá mismo — no dependen de que un servicio externo esté arriba en el momento en que alguien entra a mi perfil.</sub>
+<sub>Estas tarjetas se generan solas todos los días vía GitHub Actions (<a href=".github/workflows/stats.yml">stats.yml</a>) y quedan commiteadas acá mismo — no dependen de que un servicio externo esté arriba en el momento en que alguien entra a mi perfil.</sub>
 
 ## 📈 Actividad
 

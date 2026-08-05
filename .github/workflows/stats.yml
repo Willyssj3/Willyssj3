@@ -21,14 +21,6 @@ jobs:
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=Willyssj3&layout=compact&theme=dark&hide_border=true&langs_count=8
-          path: assets/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
@@ -39,4 +31,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: actualizar tarjetas de stats"
-          file_pattern: "assets/github-stats.svg assets/top-langs.svg assets/streak-stats.svg"
+          file_pattern: "assets/github-stats.svg assets/streak-stats.svg"
