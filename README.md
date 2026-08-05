@@ -150,20 +150,18 @@ Cuando no estoy programando, lo más probable es que esté corriendo o jugando *
 
 ## 📊 GitHub stats
 
+<table align="center">
+<tr>
+<td><img src="assets/github-stats.svg" alt="Estadísticas de GitHub" height="165" /></td>
+<td><img src="assets/streak-stats.svg" alt="Racha de contribuciones" height="165" /></td>
+</tr>
+</table>
+
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Willyssj3&theme=dark&hide_border=true" alt="Racha de contribuciones" height="165" />
+<img src="assets/top-langs.svg" alt="Lenguajes más usados" height="165" />
 </div>
 
-<!--
-El instance público de github-readme-stats.vercel.app está caído desde enero 2026
-(503 DEPLOYMENT_PAUSED, ver https://github.com/anuraghazra/github-readme-stats/issues/4737).
-Las tarjetas de "Estadísticas de GitHub" y "Lenguajes más usados" se sacaron temporalmente
-para no mostrar imagen rota. Se pueden restaurar apenas se self-hostee una instancia propia
-en Vercel (botón de deploy en el repo de anuraghazra/github-readme-stats), reemplazando el
-dominio en estas URLs:
-<img src="https://github-readme-stats.vercel.app/api?username=Willyssj3&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willyssj3&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="165" />
--->
+<sub>Estas tres tarjetas se generan solas todos los días vía GitHub Actions (<a href=".github/workflows/stats.yml">stats.yml</a>) y quedan commiteadas acá mismo — no dependen de que un servicio externo esté arriba en el momento en que alguien entra a mi perfil.</sub>
 
 ## 📈 Actividad
 
