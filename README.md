@@ -154,6 +154,10 @@ Fuera del código, leo bastante — llevo el registro en [Fable](https://fable.c
 
 <div align="center">
 <img src="assets/bookshelf-finished.png" alt="Estantería de libros terminados" width="100%" />
+
+**[📖 Abrir la biblioteca interactiva →](https://claude.ai/code/artifact/efc66263-98e2-45e6-bed0-cf5d337900a3)**
+<sub>estantería con forma de W — tocá un libro para ver la sinopsis y mi opinión</sub>
+
 </div>
 
 ---
