@@ -153,11 +153,11 @@ Cuando no estoy programando, lo más probable es que esté corriendo, leyendo o 
 Fuera del código, leo bastante — llevo el registro en [Fable](https://fable.co/fabler/brian-moro-238941921118) (Level 26). Estos son los 20 que ya terminé:
 
 <div align="center">
-<a href="https://claude.ai/code/artifact/efc66263-98e2-45e6-bed0-cf5d337900a3">
+<a href="https://willyssj3.github.io/Willyssj3/biblioteca/">
 <img src="assets/bookshelf-finished.png" alt="Estantería de libros terminados" width="100%" />
 </a>
 
-**[📖 Abrir la biblioteca interactiva →](https://claude.ai/code/artifact/efc66263-98e2-45e6-bed0-cf5d337900a3)**
+**[📖 Abrir la biblioteca interactiva →](https://willyssj3.github.io/Willyssj3/biblioteca/)**
 <sub>tocá un libro para ver la sinopsis y mi opinión</sub>
 
 </div>
