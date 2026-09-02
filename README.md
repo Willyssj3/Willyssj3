@@ -156,6 +156,186 @@ Fuera del código, leo bastante — llevo el registro en [Fable](https://fable.c
 <img src="assets/bookshelf-finished.png" alt="Estantería de libros terminados" width="100%" />
 </div>
 
+<details>
+<summary><b>Rebelión en la Granja</b> — <i>George Orwell</i></summary>
+
+Los animales de una granja expulsan a su dueño humano soñando con un futuro de igualdad, pero los cerdos que toman el poder terminan repitiendo la misma tiranía que derrocaron. Sátira sobre la Revolución Rusa y el ascenso del estalinismo.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>Navidades Trágicas</b> — <i>Agatha Christie</i></summary>
+
+Una familia se reúne para Navidad por orden del patriarca, un anciano tirano que aparece asesinado esa misma noche en su habitación cerrada por dentro. Hercule Poirot investiga entre parientes que sobran de motivos.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>A Christmas Carol</b> — <i>Charles Dickens</i></summary>
+
+El avaro Ebenezer Scrooge recibe la visita de tres espíritus la noche de Navidad, que le muestran su pasado, presente y futuro para hacerlo reflexionar sobre su tacañería.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>Las Indignas</b> — <i>Agustina Bazterrica</i></summary>
+
+En un convento derruido tras un colapso climático, un grupo de mujeres vive bajo el régimen de “la Hermana Superiora” y “Él”. La protagonista aspira a convertirse en Elegida mientras registra en secreto los horrores del lugar.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>Percy Jackson and the Olympians: The Ultimate Guide</b> — <i>Rick Riordan</i></summary>
+
+Guía complementaria a la saga de Percy Jackson, con perfiles de personajes, dioses y criaturas del universo creado por Riordan.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>The Demigod Files</b> — <i>Rick Riordan</i></summary>
+
+Colección de historias cortas ambientadas entre los libros de Percy Jackson, con material extra sobre el Campamento Mestizo y sus héroes.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>La llamada de Cthulhu</b> — <i>H.P. Lovecraft</i></summary>
+
+Un hombre investiga las notas de su tío fallecido y descubre un culto oculto que venera a Cthulhu, una entidad cósmica dormida bajo el océano cuyo despertar amenazaría la cordura de la humanidad.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>Percy Jackson y el último héroe del Olimpo</b> — <i>Rick Riordan</i></summary>
+
+El titán Cronos avanza sobre Manhattan con su ejército para destruir el Olimpo. Percy y sus amigos del Campamento Mestizo libran la batalla final para salvar a los dioses.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>El hombre de tiza</b> — <i>C.J. Tudor</i></summary>
+
+Un grupo de amigos de 12 años usa dibujos de tiza en la vereda para dejarse mensajes secretos, hasta que los símbolos los llevan a descubrir un cadáver desmembrado. Treinta años después, los dibujos vuelven a aparecer.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>Prohibido suicidarse en primavera</b> — <i>Alejandro Casona</i></summary>
+
+En un extraño sanatorio dedicado a prevenir suicidios, los pacientes son sometidos a terapias poco convencionales. Comedia dramática española sobre la vida, la muerte y el amor.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>Fugitivos en el tiempo</b> — <i>Dalas Review</i></summary>
+
+Sinopsis pendiente — contame de qué trata y la sumo.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>La vida es un chiste</b> — <i>Zorman</i></summary>
+
+Sinopsis pendiente — contame de qué trata y la sumo.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>Huesos Desnudos</b> — <i>Domergue</i></summary>
+
+Sinopsis pendiente — contame de qué trata y la sumo.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>La sombra del dinosaurio</b> — <i>Pablo De Santis</i></summary>
+
+Sinopsis pendiente — contame de qué trata y la sumo.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>La sombra del viento</b> — <i>Carlos Ruiz Zafón</i></summary>
+
+En la Barcelona de posguerra, un niño encuentra en el Cementerio de los Libros Olvidados una novela que lo obsesiona, y descubre que alguien se dedica a quemar todos los ejemplares de su misterioso autor.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>Mujercitas</b> — <i>Louisa May Alcott</i></summary>
+
+Las cuatro hermanas March crecen en Nueva Inglaterra durante la Guerra Civil, entre estrecheces económicas y sueños propios, mientras su padre está en el frente.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>La batalla del laberinto</b> — <i>Rick Riordan</i></summary>
+
+Percy y sus amigos se internan en el Laberinto de Dédalo, que se extiende bajo todo Estados Unidos, para encontrarlo antes de que el ejército de Cronos lo use para invadir el Campamento Mestizo.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>Percy Jackson y la maldición del titán</b> — <i>Rick Riordan</i></summary>
+
+Percy debe rescatar a Annabeth y a la cazadora Artemisa, secuestradas mientras perseguían a un monstruo antiguo, antes de que el bando de Cronos gane una ventaja decisiva.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>Percy Jackson y el mar de los monstruos</b> — <i>Rick Riordan</i></summary>
+
+Con el árbol mágico que protege el Campamento Mestizo envenenado, Percy y sus amigos cruzan el Mar de los Monstruos (el Triángulo de las Bermudas) en busca del Vellocino de Oro.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
+<details>
+<summary><b>Percy Jackson y el ladrón del rayo</b> — <i>Rick Riordan</i></summary>
+
+Percy descubre que es hijo de Poseidón y es acusado de robar el rayo maestro de Zeus. Tiene diez días para encontrarlo y evitar una guerra entre los dioses del Olimpo.
+
+**Mi opinión:** _Reseña pendiente — todavía no me contó qué le pareció este._
+
+</details>
+
 ---
 
 ## 📊 GitHub stats
